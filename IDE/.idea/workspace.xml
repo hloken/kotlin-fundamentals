@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd9a6cd1-3d3d-43f1-a517-02a72902f8bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zw4HXH9KEKPqx9L1Zgio5LuS1t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Kotlin  Pluralsight\Demos\IDE\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="JetRunConfigurationType">
+      <module name="Simple" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-14" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd9a6cd1-3d3d-43f1-a517-02a72902f8bf" name="Default Changelist" comment="" />
+      <created>1585736734655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585736734655</updated>
+      <workItem from="1585736739254" duration="121000" />
+      <workItem from="1585736878342" duration="755000" />
+      <workItem from="1585737719945" duration="3280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="438" key="#Project_Structure" timestamp="1585738051581">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2472" y="438" key="#Project_Structure/0.0.3840.1560@0.0.3840.1560" timestamp="1585738051581" />
+    <state x="2450" y="434" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585737889220">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2450" y="434" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.1560@0.0.3840.1560" timestamp="1585737889220" />
+    <state x="2776" y="520" key="FileChooserDialogImpl" timestamp="1585737749287">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2776" y="520" key="FileChooserDialogImpl/0.0.3840.1560@0.0.3840.1560" timestamp="1585737749287" />
+    <state width="1637" height="450" key="GridCell.Tab.0.bottom" timestamp="1585743002970">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1637" height="450" key="GridCell.Tab.0.bottom/0.0.3840.1560@0.0.3840.1560" timestamp="1585743002970" />
+    <state width="1637" height="450" key="GridCell.Tab.0.center" timestamp="1585743002970">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1637" height="450" key="GridCell.Tab.0.center/0.0.3840.1560@0.0.3840.1560" timestamp="1585743002970" />
+    <state width="1637" height="450" key="GridCell.Tab.0.left" timestamp="1585743002970">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1637" height="450" key="GridCell.Tab.0.left/0.0.3840.1560@0.0.3840.1560" timestamp="1585743002970" />
+    <state width="1637" height="450" key="GridCell.Tab.0.right" timestamp="1585743002970">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1637" height="450" key="GridCell.Tab.0.right/0.0.3840.1560@0.0.3840.1560" timestamp="1585743002970" />
+    <state x="2381" y="425" key="SettingsEditor" timestamp="1585737464086">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2381" y="425" key="SettingsEditor/0.0.3840.1560@0.0.3840.1560" timestamp="1585737464086" />
+    <state x="2692" y="603" key="com.intellij.ide.util.TipDialog" timestamp="1585736883685">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2692" y="603" key="com.intellij.ide.util.TipDialog/0.0.3840.1560@0.0.3840.1560" timestamp="1585736883685" />
+    <state x="2381" y="504" key="new project wizard" timestamp="1585741382132">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2381" y="504" key="new project wizard/0.0.3840.1560@0.0.3840.1560" timestamp="1585741382132" />
+    <state x="2661" y="359" key="search.everywhere.popup" timestamp="1585738428257">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2661" y="359" key="search.everywhere.popup/0.0.3840.1560@0.0.3840.1560" timestamp="1585738428257" />
+  </component>
+</project>

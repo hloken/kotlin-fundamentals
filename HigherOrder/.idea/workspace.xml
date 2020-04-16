@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d63586f-bb89-45bc-b0bb-ffc8bebe43ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aCdagCclYfy2PtssWGQCUnua3s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Kotlin  Pluralsight\Demos\HigherOrder\src\com\rsk" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.InliningKt">
+    <configuration name="HigherOrderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="HigherOrder" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.rsk.HigherOrderKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InliningKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="HigherOrder" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.rsk.InliningKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.InliningKt" />
+        <item itemvalue="Kotlin.HigherOrderKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d63586f-bb89-45bc-b0bb-ffc8bebe43ea" name="Default Changelist" comment="" />
+      <created>1586243574343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586243574343</updated>
+      <workItem from="1586243577763" duration="3410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2668" y="519" key="FileChooserDialogImpl" timestamp="1586256902411">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2668" y="519" key="FileChooserDialogImpl/0.0.3840.1560@0.0.3840.1560" timestamp="1586256902411" />
+    <state width="1762" height="455" key="GridCell.Tab.0.bottom" timestamp="1586256934361">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1762" height="455" key="GridCell.Tab.0.bottom/0.0.3840.1560@0.0.3840.1560" timestamp="1586256934361" />
+    <state width="1762" height="455" key="GridCell.Tab.0.center" timestamp="1586256934361">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1762" height="455" key="GridCell.Tab.0.center/0.0.3840.1560@0.0.3840.1560" timestamp="1586256934361" />
+    <state width="1762" height="455" key="GridCell.Tab.0.left" timestamp="1586256934361">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1762" height="455" key="GridCell.Tab.0.left/0.0.3840.1560@0.0.3840.1560" timestamp="1586256934361" />
+    <state width="1762" height="455" key="GridCell.Tab.0.right" timestamp="1586256934361">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1762" height="455" key="GridCell.Tab.0.right/0.0.3840.1560@0.0.3840.1560" timestamp="1586256934361" />
+    <state x="2271" y="502" key="new project wizard" timestamp="1586256932331">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2271" y="502" key="new project wizard/0.0.3840.1560@0.0.3840.1560" timestamp="1586256932331" />
+  </component>
+</project>

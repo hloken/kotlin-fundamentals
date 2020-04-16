@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e48f62cf-d6aa-4a77-add3-dc2df149a75e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1gv2RI0Y9eWZaehwSHj9fpQ8n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../KotlinGradleTest" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="rsk" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.FilterMapKt">
+    <configuration name="FilterMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="FilteringAndSorting" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rsk.FilterMapKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlattenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="FilteringAndSorting" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rsk.FlattenKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="FilteringAndSorting" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rsk.PredicatesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.FilterMapKt" />
+        <item itemvalue="Kotlin.FlattenKt" />
+        <item itemvalue="Kotlin.PredicatesKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e48f62cf-d6aa-4a77-add3-dc2df149a75e" name="Default Changelist" comment="" />
+      <created>1585908740840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585908740840</updated>
+      <workItem from="1585908745645" duration="6798000" />
+      <workItem from="1586156945014" duration="1234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2737" y="430" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1585910671967">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2737" y="430" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.3840.1560@0.0.3840.1560" timestamp="1585910671967" />
+    <state x="2737" y="519" key="FileChooserDialogImpl" timestamp="1586160702748">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2737" y="519" key="FileChooserDialogImpl/0.0.3840.1560@0.0.3840.1560" timestamp="1586160702748" />
+    <state width="1762" height="455" key="GridCell.Tab.0.bottom" timestamp="1585919252754">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1762" height="455" key="GridCell.Tab.0.bottom/0.0.3840.1560@0.0.3840.1560" timestamp="1585919252754" />
+    <state width="1762" height="455" key="GridCell.Tab.0.center" timestamp="1585919252754">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1762" height="455" key="GridCell.Tab.0.center/0.0.3840.1560@0.0.3840.1560" timestamp="1585919252754" />
+    <state width="1762" height="455" key="GridCell.Tab.0.left" timestamp="1585919252754">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1762" height="455" key="GridCell.Tab.0.left/0.0.3840.1560@0.0.3840.1560" timestamp="1585919252754" />
+    <state width="1762" height="455" key="GridCell.Tab.0.right" timestamp="1585919252754">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1762" height="455" key="GridCell.Tab.0.right/0.0.3840.1560@0.0.3840.1560" timestamp="1585919252754" />
+    <state x="925" y="368" key="SettingsEditor" timestamp="1585910184968">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="925" y="368" key="SettingsEditor/0.0.3840.1560@0.0.3840.1560" timestamp="1585910184968" />
+    <state x="2340" y="502" key="new project wizard" timestamp="1586160706525">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2340" y="502" key="new project wizard/0.0.3840.1560@0.0.3840.1560" timestamp="1586160706525" />
+  </component>
+</project>

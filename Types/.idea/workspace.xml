@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adc651b1-f936-4b3c-b00a-dd5f440aa9d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZzADGrilvrDkY7Y9so0yi7vQOQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Kotlin  Pluralsight\Demos\Types\src\rsk" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Program">
+    <configuration name="PersonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Types" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rsk.PersonKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="JetRunConfigurationType">
+      <module name="Types" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rsk.Program" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.Program" />
+      <item itemvalue="Kotlin.PersonKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.PersonKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adc651b1-f936-4b3c-b00a-dd5f440aa9d8" name="Default Changelist" comment="" />
+      <created>1585831427324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585831427324</updated>
+      <workItem from="1585831431602" duration="4743000" />
+      <workItem from="1585896426097" duration="2647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2412" y="432" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585898630637">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2412" y="432" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.1560@0.0.3840.1560" timestamp="1585898630637" />
+    <state x="2787" y="493" key="#com.intellij.ide.util.MemberChooser" timestamp="1585898392247">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2787" y="493" key="#com.intellij.ide.util.MemberChooser/0.0.3840.1560@0.0.3840.1560" timestamp="1585898392247" />
+    <state width="1762" height="455" key="GridCell.Tab.0.bottom" timestamp="1585901269392">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1762" height="455" key="GridCell.Tab.0.bottom/0.0.3840.1560@0.0.3840.1560" timestamp="1585901269392" />
+    <state width="1762" height="455" key="GridCell.Tab.0.center" timestamp="1585901269392">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1762" height="455" key="GridCell.Tab.0.center/0.0.3840.1560@0.0.3840.1560" timestamp="1585901269392" />
+    <state width="1762" height="455" key="GridCell.Tab.0.left" timestamp="1585901269392">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1762" height="455" key="GridCell.Tab.0.left/0.0.3840.1560@0.0.3840.1560" timestamp="1585901269392" />
+    <state width="1762" height="455" key="GridCell.Tab.0.right" timestamp="1585901269392">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state width="1762" height="455" key="GridCell.Tab.0.right/0.0.3840.1560@0.0.3840.1560" timestamp="1585901269392" />
+    <state x="2378" y="502" key="new project wizard" timestamp="1585901266898">
+      <screen x="0" y="0" width="3840" height="1560" />
+    </state>
+    <state x="2378" y="502" key="new project wizard/0.0.3840.1560@0.0.3840.1560" timestamp="1585901266898" />
+  </component>
+</project>
